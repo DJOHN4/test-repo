@@ -1,0 +1,11 @@
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\bin\Release\netcoreapp2.2\myapp.deps.json
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\bin\Release\netcoreapp2.2\myapp.runtimeconfig.json
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\bin\Release\netcoreapp2.2\myapp.runtimeconfig.dev.json
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\bin\Release\netcoreapp2.2\myapp.dll
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\bin\Release\netcoreapp2.2\myapp.pdb
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\obj\Release\netcoreapp2.2\myapp.csprojAssemblyReference.cache
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\obj\Release\netcoreapp2.2\myapp.csproj.CoreCompileInputs.cache
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\obj\Release\netcoreapp2.2\myapp.AssemblyInfoInputs.cache
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\obj\Release\netcoreapp2.2\myapp.AssemblyInfo.cs
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\obj\Release\netcoreapp2.2\myapp.dll
+C:\Users\DJ\Desktop\animal-auct\test-repo\app\obj\Release\netcoreapp2.2\myapp.pdb
